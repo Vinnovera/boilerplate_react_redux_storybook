@@ -1,0 +1,11 @@
+.btn {
+    background: dimgrey;
+    color: white;
+    font-size: 24px;
+}
+
+.btn:hover {
+    background: dimgrey;
+    color: yellow;
+    font-size: 24px;
+}
